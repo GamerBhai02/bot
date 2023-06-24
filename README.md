@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://telegra.ph/file/68d28011b2bc356b5db01.png" alt="Lazy Princess Logo">
+  <img <p align="center">
+  <img src="[.](https://graph.org/file/7f8e6eb246077ae5a95f6.jpg) " alt="TG_UPDATES1 Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  TG_UPDATES1
 </h1>
-
 
 ## Features
 
