@@ -62,4 +62,12 @@ You can deploy this bot anywhere.
 
 ### IT ALSO DEPLOY ON RENDER AND HEROKU
 Contact me any doubt are error occurred means 
+
+<details><summary>Deploy To Render</summary>
+<br>
+<a href="https://render.com/deploy?repo=https://github.com/Kushalhk/Ctom/tree/main">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+</details>
+
 <a href='https://t.me/KUSHALHK'>⚜️ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 ⚜️</a>
