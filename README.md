@@ -60,4 +60,6 @@ You can deploy this bot anywhere.
 
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/Kushalhk/Autofilter&branch=added_UrlShortWithRename_V7.0&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
-
+### IT ALSO DEPLOY ON RENDER AND HEROKU
+Contact me any doubt are error occurred means 
+<a href='https://t.me/KUSHALHK'>⚜️ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 ⚜️</a>
